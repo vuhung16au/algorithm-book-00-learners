@@ -1,5 +1,4 @@
 
-Here's the detailed content for Lecture 10: Data Abstraction, formatted according to your requirements:
 
 ---
 
@@ -115,7 +114,3 @@ Here's the detailed content for Lecture 10: Data Abstraction, formatted accordin
 
 ---
 
-I will now save this content as a PowerPoint file named `Lecture_10_Data_Abstraction.pptx`.
-
-Unfortunately, the tool to generate the PowerPoint is currently unavailable. You can copy this structure and create the PowerPoint manually. If you need further assistance, feel free to ask!
-![Uploading image.png…]()
